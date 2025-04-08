@@ -4,7 +4,7 @@
 ![MIT License][license-shield] ![Repository Size][repository-size-shield] ![Issue Closed][issue-closed-shield]
 
 <!--프로젝트 대문 이미지-->
-![Project Title](img/project-title.png)
+![Project Title](doc/images/project-title.png)
 
 <!--프로젝트 버튼-->
  [![Readme in English][readme-eng-shield]][readme-eng-url] [![View Demo][view-demo-shield]][view-demo-url] [![Report bug][report-bug-shield]][report-bug-url] [![Request feature][request-feature-shield]][request-feature-url]
@@ -82,7 +82,7 @@ const API_KEY = "<Your API key>";
 # [3] Usage
 ***스크린샷, 코드** 등을 통해 **사용 방법**과 **사용 예제**를 보여주세요. 사용 예제별로 h2 헤더로 나누어 설명할 수 있습니다.*
 
-![usage](img/usage.png)
+![usage](doc/images/usage.png)
 
 ```java
 // 몇 개의 API 사용 예제를 코드와 함께 보여주세요.

@@ -4,7 +4,7 @@
 ![MIT License][license-shield] ![Repository Size][repository-size-shield] ![Issue Closed][issue-closed-shield]
 
 <!--Project Title Image-->
-![Project Title](res-readme/img/project-title.png)
+![Project Title](doc/images/project-title.png)
 
 <!--Project Buttons-->
  [![Readme in Korean][readme-ko-shield]][readme-ko-url] [![View Demo][view-demo-shield]][view-demo-url] [![Report bug][report-bug-shield]][report-bug-url] [![Request feature][request-feature-shield]][request-feature-url]
@@ -78,7 +78,7 @@ const API_KEY = "<Your API key>";
 # [3] Usage
 *Show **instructions** and **useful examples** of how your project can be used with **screenshots**, **code examples**, etc. You can make h2 headers for each usage example to clarify your explanation.*
 
-![usage](res-readme/img/usage.png)
+![usage](doc/images/usage.png)
 
 ```java
 // Show useful code examples of some of your APIs 
@@ -131,9 +131,9 @@ This project is licensed under the MIT License. See the [`LICENSE`][license-url]
 [request-feature-url]: https://github.com/devyoujin/awesome-readme-template/issues
 
 <!--URLS-->
-[license-url]: res-readme/LICENSE.md
-[contribution-url]: res-readme/CONTRIBUTION.md
-[readme-ko-url]: res-readme/README-KO.md
+[license-url]: LICENSE.md
+[contribution-url]: CONTRIBUTION.md
+[readme-ko-url]: README-KO.md
 
 
 
