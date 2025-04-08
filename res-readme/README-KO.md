@@ -94,7 +94,7 @@ const API_KEY = "<Your API key>";
 기여해주신 모든 분들께 대단히 감사드립니다.[`contributing guide`][contribution-url]를 참고해주세요.
 이 프로젝트의 기여하신 분들을 소개합니다! 🙆‍♀️
 *이모티콘 쓰는 것을 좋아한다면, 버그 수정에 🐞, 아이디어 제공에 💡, 새로운 기능 구현에 ✨를 사용할 수 있습니다.*
-- 🐞 [dev-ujin](https://github.com/dev-ujin): 메인페이지 버그 수정
+- 🐞 [YOUJIN LEE(devyoujin)](https://github.com/devyoujin): 메인페이지 버그 수정
 
 
 
@@ -110,8 +110,8 @@ const API_KEY = "<Your API key>";
 
 
 # [6] Contact
-- 📧 dev.ujin518@gmail.com
-- 📋 [https://dev-ujin.github.io/contact](https://dev-ujin.github.io/contact)
+- 📧 youjin.lee.dev@gmail.com
+- 📋 [Contact Form](https://devyoujin.github.io/contact)
 
 
 
@@ -122,23 +122,20 @@ MIT 라이센스
 
 
 <!--Url for Badges-->
-[license-shield]: https://img.shields.io/github/license/dev-ujin/readme-template?labelColor=D8D8D8&color=04B4AE
-[repository-size-shield]: https://img.shields.io/github/repo-size/dev-ujin/readme-template?labelColor=D8D8D8&color=BE81F7
-[issue-closed-shield]: https://img.shields.io/github/issues-closed/dev-ujin/readme-template?labelColor=D8D8D8&color=FE9A2E
+[license-shield]: https://img.shields.io/github/license/devyoujin/awesome-readme-template?labelColor=D8D8D8&color=04B4AE
+[repository-size-shield]: https://img.shields.io/github/repo-size/devyoujin/awesome-readme-template?labelColor=D8D8D8&color=BE81F7
+[issue-closed-shield]: https://img.shields.io/github/issues-closed/devyoujin/awesome-readme-template?labelColor=D8D8D8&color=FE9A2E
 
 <!--Url for Buttons-->
 [readme-eng-shield]: https://img.shields.io/badge/-readme%20in%20english-2E2E2E?style=for-the-badge
 [view-demo-shield]: https://img.shields.io/badge/-%F0%9F%98%8E%20view%20demo-F3F781?style=for-the-badge
-[view-demo-url]: https://dev-ujin.github.io
+[view-demo-url]: https://devyoujin.github.io
 [report-bug-shield]: https://img.shields.io/badge/-%F0%9F%90%9E%20report%20bug-F5A9A9?style=for-the-badge
-[report-bug-url]: https://github.com/dev-ujin/readme-template/issues
+[report-bug-url]: https://github.com/devyoujin/awesome-readme-template/issues
 [request-feature-shield]: https://img.shields.io/badge/-%E2%9C%A8%20request%20feature-A9D0F5?style=for-the-badge
-[request-feature-url]: https://github.com/dev-ujin/readme-template/issues
+[request-feature-url]: https://github.com/devyoujin/awesome-readme-template/issues
 
 <!--URLS-->
 [license-url]: LICENSE.md
 [contribution-url]: CONTRIBUTION.md
-[readme-eng-url]: ../README.md
-
-
-
+[readme-eng-url]: README.md
